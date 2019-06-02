@@ -1,0 +1,1 @@
+Esta base de datos está trabajada en MySQL 8.0
